@@ -46,10 +46,10 @@ erp-system/
 # Usage
 Once you have installed the dependencies, you can start the development server and access the application in your browser.
 
-### 1. Run the development server:
+###  Run the development server:
 `npm run dev`
 
-### 2. Access the application:
+###  Access the application:
 * Open your web browser and navigate to http://localhost:3000.
 + You will be directed to the Dashboard page, which provides an overview of key metrics and features.
 - Use the sidebar navigation to access other sections of the application: Products Management, Orders Management, and Orders Calendar View.
